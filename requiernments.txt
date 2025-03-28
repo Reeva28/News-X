@@ -1,0 +1,12 @@
+streamlit
+yfinance
+pandas
+numpy
+nltk
+transformers
+plotly
+requests
+google-auth
+matplotlib
+scikit-learn
+torch
